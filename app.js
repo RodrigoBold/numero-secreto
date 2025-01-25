@@ -1,6 +1,6 @@
 let listaDeNumerosSorteados = [];
 <<<<<<< HEAD
-let numeroLimite = 2000;
+let numeroLimite = 7000;
 =======
 let numeroLimite = 350;
 >>>>>>> d592752228b83cea4921920437e04c02d6e09aa1
